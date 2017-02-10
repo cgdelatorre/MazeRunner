@@ -1,0 +1,14 @@
+D:\Users\Genaro\Documents\Diseño de compiladores\MazeRunner\MazeRunner\bin\Debug\MazeRunner.exe.config
+D:\Users\Genaro\Documents\Diseño de compiladores\MazeRunner\MazeRunner\bin\Debug\MazeRunner.exe
+D:\Users\Genaro\Documents\Diseño de compiladores\MazeRunner\MazeRunner\bin\Debug\MazeRunner.pdb
+D:\Users\Genaro\Documents\Diseño de compiladores\MazeRunner\MazeRunner\obj\Debug\MazeRunner.csprojResolveAssemblyReference.cache
+D:\Users\Genaro\Documents\Diseño de compiladores\MazeRunner\MazeRunner\obj\Debug\MainWindow.g.cs
+D:\Users\Genaro\Documents\Diseño de compiladores\MazeRunner\MazeRunner\obj\Debug\App.g.cs
+D:\Users\Genaro\Documents\Diseño de compiladores\MazeRunner\MazeRunner\obj\Debug\MazeRunner_MarkupCompile.cache
+D:\Users\Genaro\Documents\Diseño de compiladores\MazeRunner\MazeRunner\obj\Debug\MazeRunner_MarkupCompile.lref
+D:\Users\Genaro\Documents\Diseño de compiladores\MazeRunner\MazeRunner\obj\Debug\MainWindow.baml
+D:\Users\Genaro\Documents\Diseño de compiladores\MazeRunner\MazeRunner\obj\Debug\MazeRunner.g.resources
+D:\Users\Genaro\Documents\Diseño de compiladores\MazeRunner\MazeRunner\obj\Debug\MazeRunner.Properties.Resources.resources
+D:\Users\Genaro\Documents\Diseño de compiladores\MazeRunner\MazeRunner\obj\Debug\MazeRunner.csproj.GenerateResource.Cache
+D:\Users\Genaro\Documents\Diseño de compiladores\MazeRunner\MazeRunner\obj\Debug\MazeRunner.exe
+D:\Users\Genaro\Documents\Diseño de compiladores\MazeRunner\MazeRunner\obj\Debug\MazeRunner.pdb
